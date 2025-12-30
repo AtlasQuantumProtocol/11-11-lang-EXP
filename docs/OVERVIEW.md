@@ -1,13 +1,14 @@
- 11/11 Language EXP — Overview (Public Demo)
+ 11/11 Language EXP — Public Demo
 
-11/11 Language EXP is a public demonstration of the 11/11 Language concept: a security-first, audit-first execution model designed for long-horizon computing and high-assurance systems.
+This repository is a public demonstration of the 11/11 Language architecture: a security-first execution model built for long-horizon systems where auditability and governance are not optional.
 
-This repository is intentionally structured to show:
-- how the language pipeline is organized
-- how audit and security concerns are represented at the architecture level
-- how systems integrate through interfaces without exposing proprietary implementations
+It is designed to show how modern languages should be structured when:
+- trust matters
+- determinism matters
+- system boundaries matter
+- compliance and traceability matter
 
-**Important:** This repo is a demo. It does not include proprietary compiler internals or production security implementations.
+All intellectual property is owned and stewarded by:
+11 AI Blockchain Developments LLC (Wyoming)
 
-Owned and stewarded by:
-**11 AI Blockchain Developments LLC (Wyoming)**
+This repository intentionally excludes proprietary implementations.
