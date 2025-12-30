@@ -1,0 +1,3 @@
+ This file illustrates “security intent” at the syntax layer (demo only)
+print Secure pipeline intent: audit-first, deterministic execution
+print Crypto systems are represented by interfaces only in this repo
