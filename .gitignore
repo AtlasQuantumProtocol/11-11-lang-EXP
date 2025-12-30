@@ -4,3 +4,12 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+
+mkdir 11-11-lang-EXP && cd 11-11-lang-EXP
+ create folders
+mkdir -p docs src/elevenlang src/demo/examples tests
+ paste files
+git init
+git add .
+git commit -m "Initial public-safe 11/11 language EXP demo repo"
